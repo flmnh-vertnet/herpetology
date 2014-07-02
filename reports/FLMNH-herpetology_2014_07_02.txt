@@ -1,0 +1,598 @@
+Report for Institution Code FLMNH, Resource herpetology
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 969
+Number of records retrieved in searches: 29120
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Indonesia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 954
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 7
+	Date: 2014-06-02 ; Times: 55
+	Date: 2014-06-04 ; Times: 28
+	Date: 2014-06-05 ; Times: 68
+	Date: 2014-06-06 ; Times: 166
+	Date: 2014-06-07 ; Times: 28
+	Date: 2014-06-08 ; Times: 73
+	Date: 2014-06-09 ; Times: 92
+	Date: 2014-06-10 ; Times: 9
+	Date: 2014-06-11 ; Times: 69
+	Date: 2014-06-12 ; Times: 2
+	Date: 2014-06-13 ; Times: 5
+	Date: 2014-06-14 ; Times: 14
+	Date: 2014-06-15 ; Times: 61
+	Date: 2014-06-16 ; Times: 44
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-18 ; Times: 7
+	Date: 2014-06-19 ; Times: 66
+	Date: 2014-06-20 ; Times: 23
+	Date: 2014-06-21 ; Times: 5
+	Date: 2014-06-22 ; Times: 10
+	Date: 2014-06-23 ; Times: 78
+	Date: 2014-06-24 ; Times: 3
+	Date: 2014-06-25 ; Times: 1
+	Date: 2014-06-27 ; Times: 13
+	Date: 2014-06-28 ; Times: 8
+	Date: 2014-06-29 ; Times: 26
+	Date: 2014-06-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:decipiens genus:Urotheca class:Reptilia" ; Times: 1
+	Query: "country:"Panama" genus:Chironius institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 15
+	Query: "genus:Chironius institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulviceps genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:variabilis genus:Tretanorhinus institutioncode:FLMNH" ; Times: 1
+	Query: "Cyclemys" ; Times: 1
+	Query: "country:"Belize" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "country:"Colombia" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulviceps genus:Rhadinaea class:Reptilia" ; Times: 1
+	Query: "country:"Panama" genus:Ninia institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:lineatus genus:Conophis institutioncode:FLMNH" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 5
+	Query: "country:"Peru" genus:Tantilla" ; Times: 2
+	Query: "country:"Costa Rica" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "country:"Nicaragua" class:Reptilia year >= 2001 year <= 2014" ; Times: 3
+	Query: "country:"Honduras" genus:Tantilla" ; Times: 1
+	Query: "genus:Oxyrhopus institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "specificepithet:annulata genus:Sibon" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Bothrops" ; Times: 1
+	Query: "country:"Panama" genus:Nothopsis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Ecuador" genus:Lachesis" ; Times: 2
+	Query: "country:"Panama" specificepithet:nasutum genus:Porthidium" ; Times: 2
+	Query: "genus:Anomalepis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:capito genus:Anolis" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:cherriei genus:Sphenomorphus" ; Times: 2
+	Query: "country:"Suriname" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:anthracinus year >= 1990 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 6
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:cenchria genus:Epicrates" ; Times: 1
+	Query: "stateprovince:"San Blas" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" specificepithet:cenchria genus:Epicrates institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Ecuador" class:Reptilia institutioncode:FLMNH" ; Times: 8
+	Query: "country:"Honduras" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "country:"Peru" genus:Clelia" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 2
+	Query: "genus:Leptotyphlops institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:septentrionalis genus:Leptodeira" ; Times: 1
+	Query: "country:"Panama" specificepithet:unimarginata genus:Mabuya" ; Times: 2
+	Query: "country:"Colombia" genus:Porthidium" ; Times: 1
+	Query: "country:"Bolivia" class:Reptilia institutioncode:FLMNH year >= 1970 year <= 2014" ; Times: 3
+	Query: "country:"Panama" genus:Gymnophthalmus" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Porthidium" ; Times: 2
+	Query: "stateprovince:"Zulia" country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 6
+	Query: "gilles" ; Times: 1
+	Query: "country:"Panama" specificepithet:guianensis genus:Phimophis" ; Times: 5
+	Query: "country:"Nicaragua" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "country:"Peru" genus:Philodryas" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:decorata genus:Rhadinaea year >= 1973 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Trujillo" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "country:"Costa Rica" genus:Leptotyphlops" ; Times: 1
+	Query: "country:"Honduras" genus:Pseustes" ; Times: 1
+	Query: "genus:Micrurus institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Amphibia" ; Times: 2
+	Query: "sonora michoacanensis" ; Times: 1
+	Query: "Leptopelis karissimbensis" ; Times: 33
+	Query: "genus:Phimophis institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Peru" genus:Typhlops" ; Times: 1
+	Query: "genus:Dendrophidion institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:spixi genus:Chironius" ; Times: 1
+	Query: "country:"Panama" genus:Leptophis" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "country:"Venezuela" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "1958 Gopherus" ; Times: 2
+	Query: "country:"Panama" genus:Porthidium institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Nicaragua" genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Leptotyphlops" ; Times: 1
+	Query: "stateprovince:"Panama" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "country:"Panama" genus:Tantilla" ; Times: 4
+	Query: "country:"Costa Rica" class:Reptilia institutioncode:FLMNH" ; Times: 4
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "country:"Panama" genus:Pseudoboa institutioncode:FLMNH" ; Times: 2
+	Query: "stateprovince:"Guayas" country:"Ecuador" class:Reptilia" ; Times: 3
+	Query: "country:"Colombia" genus:Tantilla" ; Times: 2
+	Query: "country:"Costa Rica" genus:Amastridium" ; Times: 1
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea year >= 1973 year <= 2014" ; Times: 2
+	Query: "country:"Panama" specificepithet:barbouri genus:Trimetopon" ; Times: 1
+	Query: "genus:carettochelys" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "genus:Ungaliophis" ; Times: 1
+	Query: "country:"Panama" specificepithet:melanolomus genus:Mastigodryas" ; Times: 2
+	Query: "Diploglossus monotropis" ; Times: 4
+	Query: "genus:Chironius year >= 1993 year <= 2014" ; Times: 1
+	Query: "country:"Costa Rica" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 1
+	Query: "country:"Panama" specificepithet:similis genus:Ctenosaura" ; Times: 1
+	Query: "chelonia institutioncode:FLMNH" ; Times: 9
+	Query: "country:"Guatemala" genus:Pseustes" ; Times: 1
+	Query: "Python regius" ; Times: 3
+	Query: "country:"Colombia" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 4
+	Query: "country:"Ecuador" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "specificepithet:melanotropis genus:Drymobius" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: "specificepithet:bizona genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"United States" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 1
+	Query: "genus:Ninia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Nicaragua" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 2
+	Query: "country:"Panama" genus:Coniophanes institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Spilotes institutioncode:FLMNH" ; Times: 1
+	Query: "Pseudotriton stateprovince:"New York"" ; Times: 1
+	Query: "country:"Panama" genus:Porthidium" ; Times: 1
+	Query: "specificepithet:mimus genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:forbesi genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Liophis" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" genus:Imantodes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Lampropeltis institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:severus genus:Xenodon" ; Times: 1
+	Query: "country:"Panama" genus:Boa institutioncode:FLMNH" ; Times: 1
+	Query: "Pseudotriton stateprovince:"New York" country:"United States"" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "country:"Nicaragua" genus:Pseustes" ; Times: 1
+	Query: "country:"Suriname" genus:Pseustes" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Honduras" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "genus:Enuliophis institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Tropidophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:maculata genus:Ninia" ; Times: 3
+	Query: "country:"Ecuador" specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "country:"Brazil" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:bizona genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Peru" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:variabilis genus:Tretanorhinus" ; Times: 2
+	Query: "genus:Liotyphlops institutioncode:FLMNH" ; Times: 2
+	Query: "genus:Coniophanes institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:lansbergii genus:Porthidium" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla year >= 1980 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Nicaragua" class:Reptilia year >= 1999 year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" genus:Tantilla" ; Times: 5
+	Query: "specificepithet:decipiens genus:Urotheca year >= 1974 year <= 2014" ; Times: 1
+	Query: "specificepithet:lansbergi genus:Porthidium institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 2
+	Query: "country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 5
+	Query: "stateprovince:"El Oro" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:reginae genus:Liophis" ; Times: 1
+	Query: "country:"Belize" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Panama" genus:Tantilla institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "country:"Guyana" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Pseustes institutioncode:FLMNH" ; Times: 2
+	Query: "stateprovince:"Chiapas" country:"Mexico" genus:Tantilla" ; Times: 1
+	Query: "country:"Belize" genus:Pseustes" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "country:"Panama" genus:Oxybelis institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Conophis institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:pustulosus genus:Physalaemus" ; Times: 1
+	Query: "country:"Panama" specificepithet:brachypoda genus:Mabuya" ; Times: 1
+	Query: "country:"Peru" class:Reptilia institutioncode:FLMNH" ; Times: 14
+	Query: "stateprovince:"Beni" country:"Bolivia" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia" ; Times: 21
+	Query: "country:"Costa Rica" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Chironius" ; Times: 1
+	Query: "country:"Brazil" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 3
+	Query: "country:"Nicaragua" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "genus:Trimetopon" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops" ; Times: 4
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Bolivia" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Guyana" genus:Pseustes" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Rhadinaea institutioncode:FLMNH" ; Times: 6
+	Query: "genus:Helicops institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:bifossatus genus:Mastigodryas" ; Times: 1
+	Query: "country:"Panama" genus:Mastigodryas institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Guajira" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "genus:Tripanurgos institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:marina genus:RHinella" ; Times: 1
+	Query: "country:"Panama" genus:Xenodon institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Colombia" class:Amphibia institutioncode:FLMNH" ; Times: 4
+	Query: "genus:Mastigodryas institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "country:"Honduras" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" specificepithet:carbonaria genus:Geochelone" ; Times: 1
+	Query: "specificepithet:montecristi genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Basiliscus" ; Times: 1
+	Query: "country:"Bolivia" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Hydromorphus institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Florida" specificepithet:egregius year >= 1990 year <= 2014" ; Times: 2
+	Query: "genus:Leptophis institutioncode:FLMNH" ; Times: 1
+	Query: "county:"Santa Rosa" stateprovince:"Florida" specificepithet:egregius year >= 1990 year <= 2014" ; Times: 1
+	Query: "specificepithet:pachyura genus:Urotheca" ; Times: 1
+	Query: "pseudotriton stateprovince:"new york" country:"United states"" ; Times: 1
+	Query: "country:"Costa Rica" genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Los santos" country:"Panama" specificepithet:albogularis genus:Gonatodes" ; Times: 1
+	Query: "country:"Panama" specificepithet:albirostris genus:Liotyphlops" ; Times: 3
+	Query: "country:"Venezuela" genus:Tantilla" ; Times: 3
+	Query: "country:"Panama" specificepithet:leucostomum genus:Kinosternon" ; Times: 1
+	Query: "genus:Stenorrhina institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Los santos" country:"Panama" genus:Basiliscus" ; Times: 1
+	Query: "stateprovince:"Canal Zone" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Bothrops institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Panama" country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "genus:Porthidium institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:FLMNH" ; Times: 3
+	Query: "specificepithet:Bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "genus:Leptodeira institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:strigatus genus:Thamnodynastes" ; Times: 1
+	Query: "stateprovince:"Chiriqui" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Honduras" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 1
+	Query: "country:"Panama" genus:Oxyrhopus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:septentrionalis genus:Leptodeira" ; Times: 1
+	Query: "country:"Peru" genus:Leptodeira" ; Times: 1
+	Query: "country:"Trinidad" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:atrox genus:Bothrops" ; Times: 1
+	Query: "specificepithet:schistosa genus:Tantilla" ; Times: 2
+	Query: "country:"Panama" specificepithet:margaritiferus genus:Drymobius class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Santa Cruz" country:"Bolivia" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:lineatus genus:Liophis institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "genus:Oxybelis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:mimus genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Cojedes" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:fragilis genus:Leptodactylus" ; Times: 2
+	Query: "country:"Colombia" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:corais genus:Drymarchon" ; Times: 1
+	Query: "genus:Spilotes institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 4
+	Query: "genus:Drymarchon institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "genus:Tretanorhinus institutioncode:FLMNH" ; Times: 4
+	Query: "stateprovince:"Tumbes" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "genus:Bothriechis institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "country:"Honduras" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Panama" class:Reptilia year >= 1999 year <= 2014" ; Times: 1
+	Query: "proteus anguinus" ; Times: 1
+	Query: "country:"Panama" specificepithet:insignis genus:Anolis" ; Times: 1
+	Query: "country:"Panama" specificepithet:tropidogaster genus:Anolis" ; Times: 1
+	Query: "stateprovince:"connecticut" genus:chelydra" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" specificepithet:guianensis genus:Phimophis" ; Times: 1
+	Query: "country:"Panama" genus:Stenorrhina" ; Times: 1
+	Query: "stateprovince:"Chiapas" country:"Mexico" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 1
+	Query: "genus:Lachesis institutioncode:FLMNH" ; Times: 3
+	Query: "country:"Mexico" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "genus:Atropoides institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:bizona genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:maculata genus:Ninia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Colombia" genus:Ctenosaura" ; Times: 1
+	Query: "genus:Pseudoboa institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Dipsas institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Clelia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "genus:Clelia institutioncode:FLMNH" ; Times: 2
+	Query: "genus:Rhinobothryum" ; Times: 7
+	Query: "stateprovince:"Herrera" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Drymarchon" ; Times: 1
+	Query: "country:"Peru" genus:Corallus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 12
+	Query: "country:"Nicaragua" class:Reptilia institutioncode:FLMNH" ; Times: 6
+	Query: "country:"Peru" genus:Helicops" ; Times: 1
+	Query: "country:"Panama" genus:Rhadinaea institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Peru" genus:Erythrolamprus" ; Times: 1
+	Query: "country:"Panama" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Amphibia" ; Times: 18
+	Query: "genus:Rhinobothryum institutioncode:FLMNH" ; Times: 5
+	Query: "specificepithet:vittatus genus:Conophis institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"San Blas" country:"Panama" class:Reptilia" ; Times: 2
+	Query: "country:"Panama" specificepithet:melanocephala genus:Tantilla" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "country:"Panama" genus:Urotheca" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:dissoleucus genus:Micrurus" ; Times: 1
+	Query: "genus:Pseustes institutioncode:FLMNH" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "stateprovince:"Barinas" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "country:"Panama" specificepithet:dissoleucus genus:Micrurus" ; Times: 5
+	Query: "country:"Panama" specificepithet:fuscus genus:Leptodactylus" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineatus genus:Liophis" ; Times: 6
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Reptilia" ; Times: 4
+	Query: "country:"Panama" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:albogularis genus:Gonatodes" ; Times: 3
+	Query: "specificepithet:melanolomus genus:Mastigodryas institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Atlantico" country:"Colombia" class:Reptilia" ; Times: 3
+	Query: "specificepithet:degenhardtii genus:Stenorrhina" ; Times: 5
+	Query: "specificepithet:mimus genus:Erythrolamprus" ; Times: 5
+	Query: "carettochelys insculpta" ; Times: 1
+	Query: "stateprovince:"Loja" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "country:"Panama" specificepithet:lansbergii genus:Porthidium" ; Times: 3
+	Query: "Hyperolius leucotaenius" ; Times: 24
+	Query: "genus:Boa institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Enulius institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Bolivia" class:Reptilia institutioncode:FLMNH" ; Times: 7
+	Query: "specificepithet:degenhardtii genus:Stenorrhina institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Drymarchon institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:monotropis genus:Diploglossus" ; Times: 1
+	Query: "genus:Geophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Honduras" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Panama" specificepithet:neuwiedii genus:Pseudoboa institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia institutioncode:FLMNH" ; Times: 20
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Nothopsis institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:bipunctatus genus:Coniophanes institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Liophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "specificepithet:panamensis genus:Ungaliophis" ; Times: 1
+	Query: "genus:Siphlophis institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:guianensis genus:Phimophis institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:bogertorum genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Cartago" country:"Costa Rica" specificepithet:bizona genus:Erythrolamprus" ; Times: 1
+	Query: "country:"Panama" genus:Lampropeltis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:petola genus:Oxyrhopus" ; Times: 2
+	Query: "stateprovince:"Herrera" country:"Panama" class:Amphibia" ; Times: 4
+	Query: "genus:Scaphiodontophis institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:flavilata genus:Rhadinaea institutioncode:FLMNH" ; Times: 3
+	Query: "country:"Panama" genus:Lachesis" ; Times: 3
+	Query: "country:"Panama" genus:Rhinoclemmys" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus" ; Times: 5
+	Query: "specificepithet:persimilis genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:degenhardtii genus:Stenorrhina" ; Times: 2
+	Query: "stateprovince:"Cauca" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "specificepithet:mipartitus genus:Micrurus institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Epicrates institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Amphibia" ; Times: 3
+	Query: "stateprovince:"Herrera" country:"Panama" genus:Basiliscus" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Pelamis institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:sp. genus:Bothrops" ; Times: 1
+	Query: "country:"Panama" genus:Stenorrhina institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Atractus institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" genus:Leptodeira institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:crepitans genus:Hyla year >= 2000 year <= 2014" ; Times: 1
+	Query: "country:"Panama" specificepithet:lineolatus genus:Sphaerodactylus" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Amphibia institutioncode:FLMNH" ; Times: 15
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Suriname" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"San Blas" country:"Panama" specificepithet:albogularis genus:Gonatodes" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea year >= 1973 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Panama" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "stateprovince:"Barinas" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "crocodylus porosus country:"Indonesia"" ; Times: 1
+	Query: "country:"Venezuela" genus:Tantilla institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Micrurus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Tobago" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "genus:Amastridium" ; Times: 3
+	Query: "stateprovince:"Zulia" country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: "genus:Pseustes" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Mabuya" ; Times: 1
+	Query: "country:"Costa Rica" genus:Lachesis" ; Times: 2
+	Query: "country:"Colombia" specificepithet:dissoleucus genus:Micrurus" ; Times: 5
+	Query: "New York Glyptemys" ; Times: 1
+	Query: "stateprovince:"Jinotega" country:"Nicaragua" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:macrolepis genus:Leptotyphlops" ; Times: 1
+	Query: "specificepithet:chloroticus genus:Drymobius year >= 1975 year <= 2014" ; Times: 1
+	Query: "country:"Guatemala" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "genus:Enulius institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Imantodes institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Dendrophidion institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Peru" genus:Mastigodryas" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus institutioncode:FLMNH" ; Times: 6
+	Query: "country:"Colombia" genus:Atractus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"San Blas" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 4
+	Query: "stateprovince:"Herrera" country:"Panama" specificepithet:auratus genus:Anolis" ; Times: 2
+	Query: "stateprovince:"Darien" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Rhadinaea class:Reptilia" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:brachypoda genus:Mabuya" ; Times: 2
+	Query: "country:"Panama" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "genus:Xenodon institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:mentovarius genus:Masticophis institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:flavilata genus:Rhadinaea institutioncode:FLMNH year >= 1974 year <= 2014" ; Times: 1
+	Query: "specificepithet:bogertorum genus:Rhadinaea institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Peru" genus:Leptotyphlops" ; Times: 1
+	Query: "country:"Costa Rica" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "specificepithet:godmani genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "thamnophis diabolicus" ; Times: 1
+	Query: "country:"Panama" genus:Imantodes institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Ecuador" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" genus:Liotyphlops institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:nasutum genus:Porthidium institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Cayman Islands" specificepithet:variabilis genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Cojedes" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "country:"Honduras" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Georgia" specificepithet:egregius year >= 1990 year <= 2014" ; Times: 1
+	Query: "genus:Drymobius institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Colombia" specificepithet:guianensis genus:Phimophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Drymobius institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Bothrops institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:hesperia genus:Rhadinaea" ; Times: 1
+	Query: "country:"Panama" specificepithet:fragilis genus:Leptodactylus" ; Times: 1
+	Query: "crotalus viridis oklahoma" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Rhadinaea" ; Times: 8
+	Query: "country:"Colombia" specificepithet:guianensis genus:Phimophis" ; Times: 8
+	Query: "genus:Amastridium institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"La Guajira" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "country:"Panama" genus:Coniophanes" ; Times: 1
+	Query: "genus:Ungaliophis institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" genus:Dipsas institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Siphlophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "genus:Trachyboa" ; Times: 1
+	Query: "specificepithet:decipiens genus:Urotheca" ; Times: 2
+	Query: "country:"Costa Rica" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "genus:Rhadinaea institutioncode:FLMNH year >= 1974 year <= 2014" ; Times: 3
+	Query: "country:"Venezuela" class:Reptilia institutioncode:FLMNH" ; Times: 15
+	Query: "country:"Panama" genus:Chelydra" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea institutioncode:FLMNH year >= 1973 year <= 2014" ; Times: 1
+	Query: "country:"Honduras" specificepithet:mimus genus:Erythrolamprus" ; Times: 2
+	Query: "country:"Panama" genus:Trimetopon" ; Times: 1
+	Query: "country:"Guyana" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:pullatus genus:Spilotes" ; Times: 1
+	Query: "stateprovince:"Canal Zone" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" specificepithet:mipartitus genus:Micrurus" ; Times: 1
+	Query: "country:"Panama" specificepithet:lansbergi genus:Porthidium" ; Times: 1
+	Query: "genus:Tantilla institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Sibon institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Panama" genus:Phimophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Colombia" genus:Tantilla institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:asper genus:Bothrops" ; Times: 1
+	Query: "country:"Peru" genus:Oxybelis" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" specificepithet:maculata genus:Ninia" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 3
+	Query: "genus:Liophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "country:"Panama" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "specificepithet:nebulata genus:Sibon institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Bothriechis institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Los santos" country:"Panama" specificepithet:brachypoda genus:Mabuya" ; Times: 1
+	Query: "country:"Panama" genus:Hydromorphus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Belize" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 3
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia institutioncode:FLMNH" ; Times: 3
+	Query: "country:"Panama" genus:Leptophis institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Honduras" class:Reptilia institutioncode:FLMNH" ; Times: 2
+	Query: "stateprovince:"Cocle" country:"Panama" class:Amphibia institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia" ; Times: 5
+	Query: "genus:Masticophis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Peru" genus:Lachesis" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:melanotus genus:Liophis" ; Times: 1
+	Query: "country:"Panama" specificepithet:crocodilus genus:Caiman" ; Times: 1
+	Query: "genus:Corallus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Nicaragua" genus:Chironius" ; Times: 1
+	Query: "country:"Mexico" specificepithet:bipunctatus genus:Coniophanes" ; Times: 1
+	Query: "specificepithet:bipunctatus genus:Coniophanes" ; Times: 2
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" genus:Pseudoboa" ; Times: 1
+	Query: "country:"Nicaragua" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "country:"Panama" genus:Lachesis institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:maculata genus:Ninia" ; Times: 2
+	Query: "country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 5
+	Query: "country:"Nicaragua" specificepithet:maculata genus:Ninia" ; Times: 1
+	Query: "country:"Cuba" specificepithet:variabilis genus:Tretanorhinus" ; Times: 1
+	Query: "country:"Nicaragua" class:Amphibia institutioncode:FLMNH" ; Times: 2
+	Query: "stateprovince:"Atlantico" country:"Colombia" class:Amphibia" ; Times: 2
+	Query: "country:"Panama" genus:Corytophanes" ; Times: 1
+	Query: "Bungarus" ; Times: 3
+	Query: "country:"Panama" genus:Corallus institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" specificepithet:cristatus genus:Corytophanes" ; Times: 1
+	Query: "country:"Panama" genus:Pelamis institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Costa Rica" genus:Pseustes institutioncode:FLMNH" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 10
+	Query: "country:"Suriname" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Urotheca year >= 1974 year <= 2014" ; Times: 3
+	Query: "Eretmochelys imbricata AND mexico" ; Times: 1
+	Query: "country:"Peru" genus:Pseudoeryx" ; Times: 1
+	Query: "country:"Colombia" class:Reptilia institutioncode:FLMNH" ; Times: 15
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" specificepithet:coronata genus:Pseudoboa" ; Times: 1
+	Query: "country:"Peru" genus:Sibynomorphus" ; Times: 2
+	Query: "country:"Panama" specificepithet:frenatus genus:Anolis" ; Times: 1
+	Query: "country:"Panama" specificepithet:rapicauda genus:Thecadactylus" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:bizona genus:Erythrolamprus institutioncode:FLMNH" ; Times: 1
+	Query: "genus:Urotheca institutioncode:FLMNH" ; Times: 2
+	Query: "country:"Costa Rica" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "genus:Trimetopon institutioncode:FLMNH" ; Times: 1
+	Query: "country:"Panama" genus:Sibon institutioncode:FLMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 278 download events in this period)
+Total number of records downloaded: 1745 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 1737
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Colombia ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 1
+	Date: 2014-06-02 ; Times: 1
+	Date: 2014-06-03 ; Times: 1
+	Date: 2014-06-11 ; Times: 1
+	Date: 2014-06-16 ; Times: 1
+	Date: 2014-06-17 ; Times: 1
+	Date: 2014-06-19 ; Times: 2
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 2
+	Date: 2014-06-28 ; Times: 2
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bolitoglossa pesrubra" ; Times: 1
+	Query: "crocodylus porosus country:"Indonesia"" ; Times: 1
+	Query: "Dendrobates histrionicus" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "thamnophis hammondii los angeles" ; Times: 1
+	Query: "aspidoscelis deppii" ; Times: 1
+	Query: "gilles" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "catalognumber:100000" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1345
+Total number of records retrieved from searches: 32923
+Number of download events that retrieved data from the resource: 187
+Total number of records downloaded: 190511
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1345
+Total number of records retrieved from searches: 32923
+Number of download events that retrieved data from the resource: 270
+Total number of records downloaded: 211965
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
