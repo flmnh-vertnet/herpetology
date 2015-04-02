@@ -1,0 +1,348 @@
+Report for Institution Code FLMNH, Resource herpetology
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 266
+Number of records retrieved in searches: 3211
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Cameroon ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Jamaica ; Times: 2
+	Country: Japan ; Times: 5
+	Country: Mexico ; Times: 15
+	Country: Russia ; Times: 49
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: United States ; Times: 169
+	Country: Unknown ; Times: 4
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 6
+	Date: 2015-03-02 ; Times: 8
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-04 ; Times: 7
+	Date: 2015-03-05 ; Times: 5
+	Date: 2015-03-06 ; Times: 8
+	Date: 2015-03-07 ; Times: 2
+	Date: 2015-03-08 ; Times: 4
+	Date: 2015-03-09 ; Times: 5
+	Date: 2015-03-10 ; Times: 7
+	Date: 2015-03-11 ; Times: 11
+	Date: 2015-03-12 ; Times: 7
+	Date: 2015-03-13 ; Times: 25
+	Date: 2015-03-14 ; Times: 1
+	Date: 2015-03-15 ; Times: 32
+	Date: 2015-03-16 ; Times: 32
+	Date: 2015-03-17 ; Times: 5
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 12
+	Date: 2015-03-20 ; Times: 4
+	Date: 2015-03-21 ; Times: 10
+	Date: 2015-03-22 ; Times: 3
+	Date: 2015-03-23 ; Times: 6
+	Date: 2015-03-24 ; Times: 9
+	Date: 2015-03-25 ; Times: 13
+	Date: 2015-03-26 ; Times: 7
+	Date: 2015-03-27 ; Times: 6
+	Date: 2015-03-28 ; Times: 8
+	Date: 2015-03-29 ; Times: 15
+	Date: 2015-03-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"oaxaca" country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 1
+	Query: "Podocnemis vogli AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"mexico" specificepithet:canum genus:gyalopion year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"coahuila" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 1
+	Query: "stateprovince:"veracruz" country:"Mexico" genus:Adelphicos year <= 2014" ; Times: 1
+	Query: "siren stateprovince:"oklahoma"" ; Times: 1
+	Query: "Nerodia rhombifer stateprovince:"tamaulipas" country:"mexico"" ; Times: 1
+	Query: "stateprovince:"chiapas" country:"mexico" specificepithet:mexicanus genus:leptophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"alabama" genus:cemophora" ; Times: 2
+	Query: "Mauremys sinensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"mexico" specificepithet:pyromelana genus:lampropeltis year >= 1850 year <= 2014" ; Times: 1
+	Query: "country:"mexico" specificepithet:canum genus:Gyalopion year >= 1850 year <= 2015" ; Times: 1
+	Query: ""pseudotriton montanus" "west virginia"" ; Times: 1
+	Query: "Gonatodes albogularis Cuba" ; Times: 1
+	Query: "eurycea wallacei" ; Times: 2
+	Query: "Kinosternon angustipons AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 1
+	Query: "county:"Sumter" genus:Nerodia" ; Times: 1
+	Query: "regina septemvittata year >= 1990 year <= 2015" ; Times: 2
+	Query: "country:"mexico" specificepithet:taeniatus genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "anolis distichus florida" ; Times: 6
+	Query: "tantilla rubra" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "anolis equestris flmnh" ; Times: 3
+	Query: "paramesotriton deloustali" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:versicolor genus:Hyla" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Amphibia" ; Times: 1
+	Query: "Basiliscus vittatus stateprovince:"chiapas" country:"mexico"" ; Times: 1
+	Query: "Podocnemis lewyana AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 2
+	Query: "stateprovince:"alabama" specificepithet:coccinea genus:cemophora" ; Times: 1
+	Query: "stateprovince:"michoacan" country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"maryland" specificepithet:insculpta" ; Times: 1
+	Query: "Cryptobranchus county:"Watauga" stateprovince:"North Carolina" year >= 1888 year <= 2015" ; Times: 1
+	Query: "county:"contra costa" genus:Ambystoma" ; Times: 1
+	Query: "extenuata" ; Times: 1
+	Query: "opipeuter xestus" ; Times: 3
+	Query: "leiocephalus schreibersii florida" ; Times: 1
+	Query: "Sphaerodactylus elegans FLMNH" ; Times: 2
+	Query: "Eleutherodactylus auriculatus" ; Times: 1
+	Query: "Hemidactylus persicus" ; Times: 1
+	Query: "country:"mexico" specificepithet:punctatus genus:diadophis year <= 2014" ; Times: 1
+	Query: "Ficimia streckeri stateprovince:"tamaulipas" country:"mexico"" ; Times: 1
+	Query: "Oolitica" ; Times: 3
+	Query: "Ocadia sinensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Oxybelis aeneus stateprovince:Chiapas" ; Times: 1
+	Query: "genus:Hydromorphus" ; Times: 1
+	Query: "iguana florida" ; Times: 3
+	Query: "stateprovince:"oaxaca" country:"mexico" specificepithet:septentrionalis genus:leptodeira year <= 2014" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 1
+	Query: "stateprovince:"hidalgo" country:"mexico" specificepithet:triangulum genus:lampropeltis year >= 1850 year <= 2014" ; Times: 1
+	Query: "Oedipina parvipes" ; Times: 1
+	Query: "zuliae AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "storeria cleveland county" ; Times: 1
+	Query: "Anolis amplisquamosus" ; Times: 1
+	Query: "county:"baldwin" stateprovince:"alabama" specificepithet:coccinea genus:cemophora" ; Times: 1
+	Query: "Eurycea aquatica stateprovince:"Alabama"" ; Times: 2
+	Query: "modestum socorro new mexico" ; Times: 1
+	Query: "Rhadinaea godmani" ; Times: 1
+	Query: "Manouria impressa AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Arizona elegans stateprovince:"tamaulipas" country:"mexico"" ; Times: 2
+	Query: "Chelodina reimanni" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 5
+	Query: "kotschyi" ; Times: 1
+	Query: "Acanthochelys" ; Times: 1
+	Query: "Batagur dhongoka AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"mexico" specificepithet:mexicana genus:lampropeltis year >= 1850 year <= 2014" ; Times: 1
+	Query: "country:"Panama" genus:Drymarchon institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"veracruz" country:"mexico" specificepithet:septentrionalis genus:leptodeira year <= 2014" ; Times: 1
+	Query: "Enulius flavitorques oaxaca" ; Times: 2
+	Query: "bothriechis marchi" ; Times: 3
+	Query: "rhacophorus rhodopus" ; Times: 49
+	Query: "Pelusios broadleyi AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Varanus griseus" ; Times: 2
+	Query: "Lithobates catesbeianus country:"Mexico"" ; Times: 3
+	Query: "Bitis worthingtoni" ; Times: 1
+	Query: "stateprovince:"veracruz" country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: ""ambystoma mabeei" "south carolina"" ; Times: 1
+	Query: "Chironius Venezuela" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "county:"Brown" stateprovince:"Texas" class:Amphibia year <= 2015" ; Times: 2
+	Query: "stateprovince:"tamaulipas" country:"mexico" specificepithet:septentrionalis genus:leptodeira year <= 2014" ; Times: 1
+	Query: "country:"Panama" genus:Phimophis institutioncode:FLMNH" ; Times: 1
+	Query: "Oxyrhopus trigeminus" ; Times: 1
+	Query: "anolis reconditus year >= 1600 year <= 2010" ; Times: 2
+	Query: "Amphisbaena heterozonata" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "Chamaeleo calyptratus FLMNH" ; Times: 1
+	Query: "Trachemys nebulosa AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"mexico" specificepithet:diplotropis genus:leptophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "anolis distichus collier" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:crepitans genus:Acris" ; Times: 1
+	Query: "python regius" ; Times: 2
+	Query: "anelytropsis" ; Times: 1
+	Query: "Staurotypus salvinii AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "stateprovince:"Alabama" specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "Xenopus clivii" ; Times: 1
+	Query: "naja sputatrix" ; Times: 4
+	Query: "Mauremys rivulata AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Chironius monticola" ; Times: 1
+	Query: "rhadinaea kinkelini" ; Times: 1
+	Query: "Elseya novaeguineae" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Trachemys decorata institutioncode:FLMNH" ; Times: 1
+	Query: "Rhinoclemmys melanosterna AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Gopherus flavomarginatus AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "county:"Zavala" stateprovince:"Texas" class:Reptilia year <= 2015" ; Times: 1
+	Query: "Varanus albigularis" ; Times: 1
+	Query: "coniophanes lateritius" ; Times: 1
+	Query: "Kachuga kachuga AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:latifasciatus genus:Adelphicos year <= 2014" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia institutioncode:FLMNH" ; Times: 1
+	Query: "stegonotus modestus" ; Times: 1
+	Query: "Anniella county:"ventura"" ; Times: 1
+	Query: "stateprovince:"nuevo leon" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 1
+	Query: "Heosemys leytensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Peltocephalus AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "coniophanes schmidti" ; Times: 1
+	Query: "country:"mexico" specificepithet:sartorii genus:tropidodipsas year <= 2014" ; Times: 1
+	Query: "Xantusia bolsonae" ; Times: 1
+	Query: "stateprovince:"maryland" genus:virginia" ; Times: 1
+	Query: "Manouria emys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Dermophis mexicanus stateprovince:"Chiapas" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:erosa genus:Kinixys" ; Times: 1
+	Query: "stateprovince:"puebla" country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"tamaulipas" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 1
+	Query: "erythromma (hylidae)" ; Times: 4
+	Query: "Pseudemys gorzugi AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Sphenomorphus nigrolineatus" ; Times: 1
+	Query: "durangoense AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "country:"mexico" specificepithet:streckeri genus:ficimia year >= 1850 year <= 2015" ; Times: 1
+	Query: "leiocephalus carinatus florida" ; Times: 3
+	Query: "Evans stateprovince:"New York"" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:carolinensis genus:gastrophryne" ; Times: 1
+	Query: "sauritus county:"Tompkins" stateprovince:"New York"" ; Times: 1
+	Query: "Melanochelys AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 2
+	Query: "Sacalia bealei AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Bolitoglossa celaque" ; Times: 2
+	Query: "hemidactylus alabama" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:dekayi genus:storeria" ; Times: 1
+	Query: "stegonotus diehli" ; Times: 1
+	Query: "leptotyphlops albifrons" ; Times: 1
+	Query: "country:"mexico" specificepithet:elegans genus:thamnophis year <= 2014" ; Times: 1
+	Query: "coniophanes bipunctatus" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 5
+	Query: "coniophanes quinquevittatus" ; Times: 1
+	Query: "country:"mexico" specificepithet:frenata genus:leptodeira year <= 2014" ; Times: 1
+	Query: "Lithobates catesbeianus Cuba" ; Times: 1
+	Query: "Podocnemis erythrocephala AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Pelochelys bibroni" ; Times: 1
+	Query: "Anolis richardii grenada" ; Times: 1
+	Query: "stateprovince:"alabama" specificepithet:gryllus genus:acris" ; Times: 1
+	Query: "stateprovince:"tabasco" country:"mexico" specificepithet:mexicanus genus:leptophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "stateprovince:"nayarit" country:"Mexico" genus:Hypsiglena year <= 2014" ; Times: 2
+	Query: "Batagur borneoensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Terrapene nelsoni AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "thamnophis chrysocephalus" ; Times: 1
+	Query: "Chelodina institutioncode:FLMNH" ; Times: 1
+	Query: ""pseudotriton ruber" ohio" ; Times: 1
+	Query: "stateprovince:"colima" country:"mexico" specificepithet:mentovarius genus:masticophis year >= 1850 year <= 2015" ; Times: 1
+	Query: "Gastrotheca longipes" ; Times: 1
+	Query: "bothriechis thalassinus" ; Times: 1
+	Query: "stateprovince:"ohio" genus:podarcis" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "Enulius flavitorques" ; Times: 1
+	Query: "kassina maculata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 56 (out of 298 download events in this period)
+Total number of records downloaded: 14889 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 14017
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 6
+	Country: Mexico ; Times: 8
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 1
+	Date: 2015-03-03 ; Times: 5
+	Date: 2015-03-04 ; Times: 3
+	Date: 2015-03-05 ; Times: 5
+	Date: 2015-03-06 ; Times: 3
+	Date: 2015-03-07 ; Times: 2
+	Date: 2015-03-09 ; Times: 4
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-12 ; Times: 2
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 4
+	Date: 2015-03-17 ; Times: 1
+	Date: 2015-03-20 ; Times: 1
+	Date: 2015-03-21 ; Times: 5
+	Date: 2015-03-23 ; Times: 3
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Centrolene prosoblepon" ; Times: 1
+	Query: "genus:Megophrys" ; Times: 1
+	Query: "Anolis cobanensis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 1
+	Query: "thamnophis elegans" ; Times: 1
+	Query: "county:"Lee" stateprovince:"Alabama"" ; Times: 1
+	Query: "Leptodactylus savagei" ; Times: 1
+	Query: "tantilla planiceps" ; Times: 1
+	Query: "candoia carinata" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Sceloporus scalaris stateprovince:"Arizona" year >= 1850 year <= 2014" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "Norops" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "genus:varanus" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "boiga irregularis" ; Times: 1
+	Query: "Incilius coniferus" ; Times: 1
+	Query: "Megophryidae" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Leptobrachium" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 1
+	Query: "tantilla hobartsmithi" ; Times: 1
+	Query: "micruroides euryxanthus" ; Times: 1
+	Query: "Bufo perplexus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "ascaphus" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "Amphisbaena fuliginosa" ; Times: 1
+	Query: "Smilisca phaeota" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "Conophis vittatus" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Hylidae" ; Times: 1
+	Query: "taricha rivularis sonoma" ; Times: 1
+	Query: "country:"Honduras" specificepithet:limifrons genus:Anolis" ; Times: 1
+	Query: "plethodon welleri" ; Times: 1
+	Query: "Lithobates vaillanti" ; Times: 1
+	Query: "acrochordus" ; Times: 1
+	Query: "Brachytarsophrys" ; Times: 3
+	Query: "eleutherodactylus cruentus" ; Times: 1
+	Query: "varanus" ; Times: 1
+	Query: ""regina septemvittata"" ; Times: 1
+	Query: "candoia" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2811
+Total number of records retrieved from searches: 53845
+Number of download events that retrieved data from the resource: 199
+Total number of records downloaded: 76805
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3112
+Total number of records retrieved from searches: 57622
+Number of download events that retrieved data from the resource: 695
+Total number of records downloaded: 359594
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
