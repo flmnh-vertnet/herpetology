@@ -1,0 +1,525 @@
+Report for Institution Code UF, Resource herpetology
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 448
+Number of records retrieved in searches: 2867
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Russia ; Times: 7
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: South Africa ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 160
+	Country: Mexico ; Times: 23
+	Country: India ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 3
+	Country: United States ; Times: 219
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 33
+	Date: 2015-11-18 ; Times: 68
+	Date: 2015-11-30 ; Times: 7
+	Date: 2015-11-03 ; Times: 14
+	Date: 2015-11-11 ; Times: 18
+	Date: 2015-11-10 ; Times: 20
+	Date: 2015-11-13 ; Times: 9
+	Date: 2015-11-12 ; Times: 5
+	Date: 2015-11-15 ; Times: 5
+	Date: 2015-11-14 ; Times: 5
+	Date: 2015-11-17 ; Times: 34
+	Date: 2015-11-16 ; Times: 56
+	Date: 2015-11-27 ; Times: 7
+	Date: 2015-11-20 ; Times: 2
+	Date: 2015-11-21 ; Times: 9
+	Date: 2015-11-04 ; Times: 34
+	Date: 2015-11-23 ; Times: 10
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 12
+	Date: 2015-11-28 ; Times: 3
+	Date: 2015-11-29 ; Times: 6
+	Date: 2015-11-02 ; Times: 13
+	Date: 2015-11-25 ; Times: 9
+	Date: 2015-11-26 ; Times: 18
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 20
+	Date: 2015-11-07 ; Times: 3
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 8
+	Date: 2015-11-24 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "farancia county:&#34;martin&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "anolis anchicayae" ; Times: 1
+	Query: "Daboia" ; Times: 3
+	Query: "peltophryne guentheri" ; Times: 1
+	Query: "anchicayae" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "146633 116274" ; Times: 2
+	Query: "specificepithet:lentiginosum genus:Rhinobothryum" ; Times: 1
+	Query: "panama viperidae" ; Times: 1
+	Query: "62044 63965" ; Times: 1
+	Query: "162864 132623" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "156978 126718" ; Times: 1
+	Query: "Plethodon petraeus county:&#34;Walker&#34; stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "146641 116282" ; Times: 1
+	Query: "Stenorrhina stateprovince:Chiapas" ; Times: 6
+	Query: "163003 132762" ; Times: 1
+	Query: "49638 51175" ; Times: 1
+	Query: "94563" ; Times: 1
+	Query: "163009 132768" ; Times: 1
+	Query: "FLMNH Cemophora" ; Times: 1
+	Query: "panama Bothriechis lateralis" ; Times: 1
+	Query: "63118 65043" ; Times: 1
+	Query: "Drymarchon couperi type:specimen institutioncode:UF mappable:1" ; Times: 1
+	Query: "dermochelys coriacea -india" ; Times: 4
+	Query: "genus:Leptotyphlops country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "xantusia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "162819 132578" ; Times: 2
+	Query: "157453 127208" ; Times: 1
+	Query: "146648 116289" ; Times: 1
+	Query: "elf" ; Times: 9
+	Query: "Storeria dekayi stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "38254 39781" ; Times: 1
+	Query: "Buergeria pollicaris" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "80723" ; Times: 1
+	Query: "Bufo surdus" ; Times: 1
+	Query: "50138 51676" ; Times: 1
+	Query: "pantherophis county:&#34;martin&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "130845 170342" ; Times: 1
+	Query: "Drymarchon corais type:specimen institutioncode:UF mappable:1" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "Chaperina" ; Times: 2
+	Query: "Pseudobranchus county:&#34;palm beach&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "FLMNH 123825" ; Times: 1
+	Query: "156614 126354" ; Times: 1
+	Query: "162856 132615" ; Times: 1
+	Query: "146873 116514" ; Times: 1
+	Query: "150566 120215" ; Times: 1
+	Query: "anomalepis mexicanus" ; Times: 1
+	Query: "156387 126126" ; Times: 1
+	Query: "144453 114090" ; Times: 1
+	Query: "Ctenosaura similis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "33241 34765" ; Times: 1
+	Query: "Drymarchon couperi type:specimen year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "sphaerodactylus inaguae" ; Times: 2
+	Query: "156976 126716" ; Times: 1
+	Query: "Plethodon grobmani" ; Times: 1
+	Query: "162994 132753" ; Times: 1
+	Query: "Trimorphodon vilkinsonii New Mexico" ; Times: 1
+	Query: "156615 126355" ; Times: 1
+	Query: "genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "146635 116276" ; Times: 1
+	Query: "162900 132659" ; Times: 1
+	Query: "Bufo Guerrero" ; Times: 1
+	Query: "8934 herp" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "Sphaerodactylus county:&#34;broward&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Sphaerodactylus county:&#34;palm beach&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Kinosternon integrum stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "histricus" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Aspidoscelis gularis stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "162820 132579" ; Times: 1
+	Query: "panama siphlophis cervinus" ; Times: 1
+	Query: "Stenorrhina country:Mexico stateprovince:Chiapas" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "Drymarchon couperi" ; Times: 1
+	Query: "genus:Virginia stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "crotalus adamanteus county:&#34;martin&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "162842 132601" ; Times: 1
+	Query: "specificepithet:amoenus genus:Carphophis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "147968 117609" ; Times: 2
+	Query: "162855 132614" ; Times: 2
+	Query: "eunectes murinus" ; Times: 1
+	Query: "silvatica" ; Times: 1
+	Query: "147993 117634" ; Times: 1
+	Query: "Carettochelys" ; Times: 1
+	Query: "62057 63978" ; Times: 1
+	Query: "28347 29870" ; Times: 1
+	Query: "Draco maculatus" ; Times: 3
+	Query: "107871" ; Times: 1
+	Query: "146030 115670" ; Times: 2
+	Query: "Gopherus polyphemus" ; Times: 1
+	Query: "Homopus signatus" ; Times: 1
+	Query: "pantherophis county:&#34;palm beach&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "dendroaspis" ; Times: 2
+	Query: "genus:Regina stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "16701 18198" ; Times: 1
+	Query: "Gopherus berlandieri stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "Aneides aeneus" ; Times: 3
+	Query: "162840 132599" ; Times: 1
+	Query: "63120 65045" ; Times: 1
+	Query: "63107 65032" ; Times: 1
+	Query: "specificepithet:quinquetaeniata genus:Trachylepis" ; Times: 2
+	Query: "146649 116290" ; Times: 1
+	Query: "141749" ; Times: 1
+	Query: "63114 65039" ; Times: 1
+	Query: "loxocemus" ; Times: 1
+	Query: "Pelobates fuscus type:specimen" ; Times: 3
+	Query: "cryptobranchus New York" ; Times: 2
+	Query: "28850" ; Times: 1
+	Query: "41802 43329" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "20187 21708" ; Times: 2
+	Query: "Algyroides" ; Times: 1
+	Query: "catalognumber:24750 institutioncode:UF" ; Times: 1
+	Query: "genus:Rhinobothryum country:&#34;Colombia&#34;" ; Times: 1
+	Query: "42765 44292" ; Times: 1
+	Query: "Rana lessonae" ; Times: 1
+	Query: "147975 117616" ; Times: 1
+	Query: "42766 44293" ; Times: 1
+	Query: "sistrurus county:&#34;martin&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "162998 132757" ; Times: 1
+	Query: "157939 127696" ; Times: 1
+	Query: "Rhadinaea godmani" ; Times: 6
+	Query: "Drymarchon couperi type:specimen year &gt;= 2000 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Bufo periglenes" ; Times: 11
+	Query: "Scinax elaeochrous" ; Times: 2
+	Query: "20186 21707" ; Times: 1
+	Query: "39748 41275" ; Times: 1
+	Query: "Plethodon petraeus" ; Times: 1
+	Query: "23395 24916" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "71535 74264" ; Times: 1
+	Query: "Lucifuga distance(location,geopoint(35.02099970111467,-85.001220703125))&lt;100000" ; Times: 1
+	Query: "33462" ; Times: 1
+	Query: "163010 132769" ; Times: 1
+	Query: "oligodon arnensis" ; Times: 2
+	Query: "Sphenodon punctatus" ; Times: 2
+	Query: "Mertensophryne" ; Times: 2
+	Query: "156613 126353" ; Times: 2
+	Query: "Loxocemus bicolor" ; Times: 1
+	Query: "rhinotyphlops acutus" ; Times: 1
+	Query: "Geoemyda" ; Times: 1
+	Query: "rhadinaea godmani" ; Times: 2
+	Query: "147969 117610" ; Times: 1
+	Query: "28469 29992" ; Times: 1
+	Query: "genus:Necturus stateprovince:&#34;Tennessee&#34;" ; Times: 2
+	Query: "149601 119242" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "157085 126826" ; Times: 1
+	Query: "162890 132649" ; Times: 1
+	Query: "genus:scutiger family:megophryidae" ; Times: 2
+	Query: "158585 128342" ; Times: 1
+	Query: "10136 11632" ; Times: 1
+	Query: "3525 3559" ; Times: 1
+	Query: "Sphaerodactylus county:&#34;miami&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "162837 132596" ; Times: 1
+	Query: "162875 132634" ; Times: 1
+	Query: "specificepithet:septemvittata genus:Regina stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "74990" ; Times: 1
+	Query: "panama boidae" ; Times: 1
+	Query: "162996 132755" ; Times: 1
+	Query: "162836 132595" ; Times: 1
+	Query: "63646 65572" ; Times: 1
+	Query: "156388 126127" ; Times: 2
+	Query: "panama Siphlophis cervinus" ; Times: 2
+	Query: "41798 43325" ; Times: 1
+	Query: "heosemys annandalii" ; Times: 1
+	Query: "Drymarchon stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Broghammerus reticulatus" ; Times: 1
+	Query: "162833 132592" ; Times: 1
+	Query: "144455 114092" ; Times: 1
+	Query: "162822 132581" ; Times: 1
+	Query: "Elaphe porphyracea" ; Times: 2
+	Query: "specificepithet:lineatus genus:Conophis stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "162841 132600" ; Times: 1
+	Query: "148301 117942" ; Times: 1
+	Query: "162876 132635" ; Times: 1
+	Query: "26740 28261" ; Times: 1
+	Query: "32941 34465" ; Times: 1
+	Query: "145056 114693" ; Times: 1
+	Query: "28461 29984" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "88751 91584" ; Times: 1
+	Query: "33462 herp" ; Times: 1
+	Query: "157686 127441" ; Times: 1
+	Query: "23349 24870" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Bolitoglossa mexicana stateprovince:Chiapas" ; Times: 2
+	Query: "157083 126824" ; Times: 1
+	Query: "specificepithet:lineatus genus:Conophis country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:bovallii genus:Rhinobothryum" ; Times: 1
+	Query: "Micrurus county:&#34;palm beach&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "specificepithet:sericeus genus:Anolis country:&#34;Belize&#34;" ; Times: 2
+	Query: "62055 63976" ; Times: 1
+	Query: "Varanus griseus" ; Times: 1
+	Query: "88756 91589" ; Times: 1
+	Query: "uropeltis maculatus" ; Times: 1
+	Query: "146656 116297" ; Times: 2
+	Query: "panama anomalepididae" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 4
+	Query: "Ialtris" ; Times: 1
+	Query: "plestiodon egregius" ; Times: 2
+	Query: "6162 7533" ; Times: 2
+	Query: "panama Clelia clelia" ; Times: 2
+	Query: "Rana dunni" ; Times: 1
+	Query: "157454 127209" ; Times: 1
+	Query: "162873 132632" ; Times: 1
+	Query: "crocodylus intermedius" ; Times: 2
+	Query: "128731 168191" ; Times: 2
+	Query: "Gastropyxis" ; Times: 1
+	Query: "146658 116299" ; Times: 1
+	Query: "38265 39792" ; Times: 1
+	Query: "88757 91590" ; Times: 1
+	Query: "farancia county:&#34;palm beach&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Cophotis ceylanica" ; Times: 1
+	Query: "specificepithet:valeriae genus:Virginia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "81047 83851" ; Times: 2
+	Query: "145435 115072" ; Times: 1
+	Query: "28860" ; Times: 1
+	Query: "162853 132612" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "specificepithet:lineatus genus:Conophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "146650 116291" ; Times: 1
+	Query: "162903 132662" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "28463 29986" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "162826 132585" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "156946 126686" ; Times: 2
+	Query: "trimeresurus purpureomaculatus" ; Times: 2
+	Query: "162852 132611" ; Times: 1
+	Query: "echis carinatus india" ; Times: 1
+	Query: "skeleton andrias" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "146636 116277" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 4
+	Query: "Duttaphrynus melanostictus" ; Times: 1
+	Query: "162854 132613" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Oxyrhopus" ; Times: 2
+	Query: "sceloporus woodi county:&#34;martin&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Salvadora stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "polemon" ; Times: 2
+	Query: "Gallotia" ; Times: 1
+	Query: "Dasia" ; Times: 1
+	Query: "specificepithet:striatula genus:Virginia stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "lampropeltis county:&#34;miami&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "pituophis melanoleucus taylor county" ; Times: 1
+	Query: "156977 126717" ; Times: 1
+	Query: "162827 132586" ; Times: 1
+	Query: "Kinosternon flavescens stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:vittatus genus:Conophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "62064 63985" ; Times: 1
+	Query: "siphlophis cervinus" ; Times: 1
+	Query: "Kinosternon scorpioides stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Bothriopsis taeniata" ; Times: 1
+	Query: "162877 132636" ; Times: 1
+	Query: "Scincella lateralis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "tantilla oolitica stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "farancia county:&#34;broward&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "tantilla tritaeniata" ; Times: 2
+	Query: "162990 132749" ; Times: 1
+	Query: "156980 126720" ; Times: 1
+	Query: "craugastor bransfordii" ; Times: 6
+	Query: "38266 39793" ; Times: 1
+	Query: "Corallus caninus" ; Times: 1
+	Query: "Malacochersus" ; Times: 2
+	Query: "146032 115672" ; Times: 1
+	Query: "Lithobates capito" ; Times: 1
+	Query: "Kinosternon stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "Nerodia clarkii county:&#34;miami&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Kentropyx borckiana" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "10012 11508" ; Times: 1
+	Query: "lampropeltis getula county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "146652 116293" ; Times: 2
+	Query: "specificepithet:trigeminus genus:Oxyrhopus" ; Times: 1
+	Query: "146868 116509" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "Anolis aliniger" ; Times: 1
+	Query: "cheetah" ; Times: 1
+	Query: "147985 117626" ; Times: 1
+	Query: "specificepithet:septentrionalis family:Scincidae stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "pseudotriton montanus stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "156982 126722" ; Times: 1
+	Query: "162863 132622" ; Times: 1
+	Query: "sceloporus megalepidurus" ; Times: 2
+	Query: "specificepithet:vulpina family:Colubridae stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Pseudacris ornata stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "157457 127212" ; Times: 1
+	Query: "26742 28263" ; Times: 1
+	Query: "45838 47365" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:johnstonei" ; Times: 1
+	Query: "leptotyphlops macrolepis" ; Times: 1
+	Query: "periglenes" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Anolis biporcatus country:Mexico" ; Times: 1
+	Query: "Elgaria panamintina" ; Times: 1
+	Query: "71546 74275" ; Times: 1
+	Query: "Bombina variegata type:specimen" ; Times: 1
+	Query: "143393 113030" ; Times: 1
+	Query: "10056 11552" ; Times: 1
+	Query: "tantilla pamlica stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Micrurus county:&#34;martin&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "146661 116302" ; Times: 1
+	Query: "agkistrodon piscivorus county:&#34;palm beach&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "147986 117627" ; Times: 2
+	Query: "Trachylepis quinquetaeniata" ; Times: 1
+	Query: "Drymarchon couperi type:specimen mappable:1" ; Times: 1
+	Query: "146867 116508" ; Times: 1
+	Query: "150782 120432" ; Times: 1
+	Query: "farancia county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "uropeltis macrolepis" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "Apalone muticus" ; Times: 1
+	Query: "bothriechis thalassinus" ; Times: 5
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "Trimorphodon vilkinsonii" ; Times: 1
+	Query: "146875 116516" ; Times: 1
+	Query: "162847 132606" ; Times: 1
+	Query: "1024 county:&#34;Val Verde&#34;" ; Times: 1
+	Query: "41799 43326" ; Times: 1
+	Query: "145057 114694" ; Times: 1
+	Query: "cordylus cataphractus" ; Times: 1
+	Query: "Ambystoma county:&#34;Walker&#34; stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "156612 126352" ; Times: 2
+	Query: "145054 114691" ; Times: 1
+	Query: "147758 117399" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 751 download events in this period)
+Total number of records downloaded: 15156
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 67
+	Country: Mexico ; Times: 8
+	Country: Panama ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-18 ; Times: 3
+	Date: 2015-11-30 ; Times: 7
+	Date: 2015-11-25 ; Times: 8
+	Date: 2015-11-11 ; Times: 10
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-14 ; Times: 5
+	Date: 2015-11-17 ; Times: 8
+	Date: 2015-11-16 ; Times: 4
+	Date: 2015-11-06 ; Times: 7
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-09 ; Times: 6
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-02 ; Times: 5
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-20 ; Times: 5
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "panama boidae" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 7
+	Query: "Aspidoscelis inornata" ; Times: 1
+	Query: "Teius teyou" ; Times: 1
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "panama viperidae" ; Times: 1
+	Query: "Hemidactylus garnotii" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "Basiliscus basiliscus specificepithet:basiliscus genus:Basiliscus" ; Times: 1
+	Query: "dendroaspis" ; Times: 1
+	Query: "kentropyx calcarata" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "andrias skeleton" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Liasis mackloti" ; Times: 1
+	Query: "Farancia erytrogramma" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "panama colubridae" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Calamaria" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "anaxyrus punctatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Callisaurus" ; Times: 2
+	Query: "Sistrurus miliarius type:specimen mappable:1" ; Times: 1
+	Query: "genus:Micrurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Aspidoscelis" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "panama anomalepididae" ; Times: 1
+	Query: "Cnemidophorus lemniscatus" ; Times: 1
+	Query: "afrixalus fulvovittatus" ; Times: 1
+	Query: "Broghammerus reticulatus" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "rana montezumae" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Scinax elaeochrous" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Antaresia childreni" ; Times: 1
+	Query: "Rana forreri" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "panama elapidae" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 2
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Kinosternon flavescens" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "Urosaurus nigricaudus" ; Times: 1
+	Query: "Lampropeltis stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "specificepithet:tigris genus:Crotalus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "hyla euphorbiaceae" ; Times: 1
+	Query: "Chaperina fusca" ; Times: 2
+	Query: "specificepithet:septentrionalis family:Scincidae stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Drymarchon couperi type:specimen mappable:1" ; Times: 2
+	Query: "houstonensis" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "Acrantophis dumerili" ; Times: 1
+	Query: "lepidophyma smithii" ; Times: 1
+	Query: "Kentropyx borckiana" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "purpureomaculatus" ; Times: 3
+	Query: "Lithobates capito" ; Times: 1
+	Query: "lampropholis delicata" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
