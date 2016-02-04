@@ -1,0 +1,278 @@
+Report for Institution Code UF, Resource herpetology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 274
+Number of records retrieved in searches: 2890
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 65
+	Country: Namibia ; Times: 3
+	Country: Panama ; Times: 3
+	Country: Russia ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 163
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 8
+	Date: 2016-01-03 ; Times: 5
+	Date: 2016-01-04 ; Times: 9
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 20
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-09 ; Times: 7
+	Date: 2016-01-10 ; Times: 6
+	Date: 2016-01-11 ; Times: 2
+	Date: 2016-01-12 ; Times: 11
+	Date: 2016-01-13 ; Times: 8
+	Date: 2016-01-14 ; Times: 9
+	Date: 2016-01-15 ; Times: 4
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 8
+	Date: 2016-01-19 ; Times: 10
+	Date: 2016-01-20 ; Times: 26
+	Date: 2016-01-21 ; Times: 5
+	Date: 2016-01-22 ; Times: 7
+	Date: 2016-01-24 ; Times: 11
+	Date: 2016-01-25 ; Times: 23
+	Date: 2016-01-26 ; Times: 16
+	Date: 2016-01-27 ; Times: 8
+	Date: 2016-01-28 ; Times: 16
+	Date: 2016-01-29 ; Times: 20
+	Date: 2016-01-30 ; Times: 8
+	Date: 2016-01-31 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "Boa nicaragua" ; Times: 1
+	Query: "guttata maryland" ; Times: 3
+	Query: "eryx colubrinus" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "clemmys guttata" ; Times: 2
+	Query: "42565" ; Times: 1
+	Query: "genus:Helicops country:"Ecuador"" ; Times: 1
+	Query: "specificepithet:depressirostris genus:Leptophis" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "jacksonii" ; Times: 1
+	Query: "enulius flavitorques country:"panama"" ; Times: 2
+	Query: "Farancia abacura Georgia" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "genus:Paramesotriton specificepithet:chinensis" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Tantillita lintoni" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Coniophanes schmidti" ; Times: 1
+	Query: "smilisca cyanosticta" ; Times: 2
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "Xantusia vigilis Nevada" ; Times: 1
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:"North Carolina"" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "bufo cristatus stateprovince:"veracruz"" ; Times: 1
+	Query: "Pythonidae tissue:1" ; Times: 2
+	Query: "(ravergieri)" ; Times: 1
+	Query: "Hyla andersonii" ; Times: 2
+	Query: "Spea hammondi" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 3
+	Query: "Rhombophryne" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 2
+	Query: "bothriopsis taeniata" ; Times: 1
+	Query: "type:specimen specificepithet:conspicillata genus:Elaphe" ; Times: 1
+	Query: "pseudoeurycea cephalica stateprovince:"veracruz"" ; Times: 1
+	Query: "Conophis vittatus" ; Times: 1
+	Query: "specificepithet:Ornata genus:Pseudacris stateprovince:"Alabama"" ; Times: 1
+	Query: "genus:desmognathus county:"union"" ; Times: 1
+	Query: "type:specimen genus:cryptobranchus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Crotalus horridus Georgia" ; Times: 3
+	Query: "concinna mexico" ; Times: 1
+	Query: "ficimia variegata" ; Times: 1
+	Query: "specificepithet:guttata stateprovince:"pennsylvania"" ; Times: 1
+	Query: "Dipsas brevifacies" ; Times: 1
+	Query: "gorzugi" ; Times: 4
+	Query: "blandingii iowa" ; Times: 2
+	Query: "Laemanctus Honduras" ; Times: 4
+	Query: "gorzugi mexico" ; Times: 2
+	Query: "country:"Mexico" (Anelytropsis)" ; Times: 1
+	Query: "Eleutherodactylus chac" ; Times: 1
+	Query: "Lampropeltis getula Nevada" ; Times: 1
+	Query: "type:specimen specificepithet:radiata genus:elaphe" ; Times: 1
+	Query: "Micrurus circinalis" ; Times: 1
+	Query: "specificepithet:argulus genus:Prionodactylus" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 18
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "uromastyx ocellata" ; Times: 1
+	Query: "craugastor laticeps" ; Times: 2
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 2
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "Crocodylus moreletii" ; Times: 1
+	Query: "specificepithet:mandarina family:colubridae" ; Times: 2
+	Query: "Batrachoseps wrighti stateprovince:"Oregon"" ; Times: 1
+	Query: "type:specimen specificepithet:obsoleta genus:Pantherophis" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "genus:Atelopus stateprovince:"Tungurahua" country:"Ecuador"" ; Times: 1
+	Query: "Oedipina elongata" ; Times: 1
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "vibicaria" ; Times: 2
+	Query: "Pseustes poecilonotus" ; Times: 1
+	Query: "Necturus punctatus stateprovince:"South Carolina"" ; Times: 1
+	Query: "rhinoclemmys" ; Times: 1
+	Query: "vaillanti mexico" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:pantherophis" ; Times: 1
+	Query: "ambystoma texanum louisiana" ; Times: 2
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "concinna texas" ; Times: 1
+	Query: "zacatlan" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "Scaphiodontophis annulatus" ; Times: 1
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "33490" ; Times: 1
+	Query: "Tropidodipsas sartorii" ; Times: 1
+	Query: "specificepithet:papillosus genus:Anelytropsis stateprovince:"Oaxaca" country:"Mexico"" ; Times: 1
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "Trioceros jacksonii" ; Times: 2
+	Query: "Lampropeltis blanchardi" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 2
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "eurycea lucifuga illinois" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "genus:cryptobranchus stateprovince:"kentucky"" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "elaphe quatuorlineata" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "azemiops feae" ; Times: 1
+	Query: "Stereochilus marginatus stateprovince:"South Carolina"" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 8
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "vipera ursinii" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "ficimia publia guerrero" ; Times: 1
+	Query: "genus:Leptophis country:"Ecuador"" ; Times: 2
+	Query: "Farancia abacura" ; Times: 8
+	Query: "specificepithet:melanogenys genus:Oxyrhopus country:"Suriname"" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 2
+	Query: "type:specimen specificepithet:subocularis genus:elaphe" ; Times: 1
+	Query: "Uma (Mohawk)" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "Hypsiglena torquata Nevada" ; Times: 2
+	Query: "108529" ; Times: 1
+	Query: "Anolis pentaprion" ; Times: 1
+	Query: "Agama savignii" ; Times: 1
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "genus:Scolecomorphus specificepithet:kirkii" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Ophisaurus year >= 2010 year <= 2016" ; Times: 1
+	Query: "specificepithet:atrata genus:Ninia" ; Times: 1
+	Query: "Tretanorhinus nigroluteus" ; Times: 1
+	Query: "clonophis" ; Times: 1
+	Query: "heterodon simus" ; Times: 3
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Espadarana prosoblepon" ; Times: 1
+	Query: "type:specimen specificepithet:nevermanni genus:Crisantophis" ; Times: 1
+	Query: "bitis caudalis" ; Times: 3
+	Query: "155631 pseudemys" ; Times: 1
+	Query: "ficimia publia oaxaca" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))<15000" ; Times: 1
+	Query: "insculpta maryland" ; Times: 3
+	Query: "Pseudelaphe flavirufa" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 2
+	Query: "Anolis lyra" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "Ungaliophis panamensis" ; Times: 2
+	Query: "Necturus punctatus stateprovince:"Georgia"" ; Times: 1
+	Query: "Bolitoglossa celaque" ; Times: 1
+	Query: "116441 pseudemys" ; Times: 2
+	Query: "Plethodontohyla" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "Leptodeira frenata" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "specificepithet:trigeminus genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Mastigodryas country:"Ecuador"" ; Times: 2
+	Query: "Cryptobranchus alleganiensis stateprovince:"Tennessee"" ; Times: 1
+	Query: "pseudelaphe flavirufa" ; Times: 1
+	Query: "Erythrolamprus bizona" ; Times: 2
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "genus:Cryptobranchus stateprovince:"kentucky"" ; Times: 2
+	Query: "ctenosaura defensor" ; Times: 1
+	Query: "micrurus tissue:1" ; Times: 1
+	Query: "Plethodon kentucki" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "Chelonoidis denticulata" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "lampropeltis getula county:"dare" stateprovince:"north carolina"" ; Times: 1
+	Query: "Lampropeltis elapsoides Georgia" ; Times: 2
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "elaphe flavirufa" ; Times: 2
+	Query: "anolis biporcatus" ; Times: 4
+	Query: "specificepithet:vibakari genus:Amphiesma" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "162073" ; Times: 1
+	Query: "enulius flavitorques" ; Times: 2
+	Query: "Echis pyramidum" ; Times: 1
+	Query: "Gonatodes caudiscutatus" ; Times: 2
+	Query: "sagrei (georgia)" ; Times: 2
+	Query: "Dendrophidion vinitor" ; Times: 1
+	Query: "FLMNH 47539" ; Times: 1
+	Query: "FLMNH 47538" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 274
+Total number of records retrieved from searches: 2890
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
