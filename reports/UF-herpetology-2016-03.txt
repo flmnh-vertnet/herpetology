@@ -1,0 +1,172 @@
+Report for Institution Code UF, Resource herpetology
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 81
+Number of records retrieved in searches: 835
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 47
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Russia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-03 ; Times: 7
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 9
+	Date: 2016-03-06 ; Times: 6
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 7
+	Date: 2016-03-05 ; Times: 7
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-01 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 2
+	Query: "specificepithet:egregius county:&#34;Taylor&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "specificepithet:egregius county:&#34;dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "11054" ; Times: 2
+	Query: "Rhineura" ; Times: 1
+	Query: "Ambystoma jeffersonianum maryland" ; Times: 1
+	Query: "Ambystoma jeffersonianum Maryland mappable:1" ; Times: 1
+	Query: "specificepithet:elegans genus:Sphaerodactylus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "geophis carinosus" ; Times: 1
+	Query: "McCarty" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "genus:Euphlyctis specificepithet:hexadactylus" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "plestiodon reynoldsi" ; Times: 1
+	Query: "specificepithet:tenuis genus:Contia county:&#34;Sacramento&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "anolis richardii" ; Times: 1
+	Query: "plethodon glutinosis" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Paramesotriton deloustali" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "Clemmys guttata Florida distance(location,geopoint(29.994746715749844,-83.0511474609375))&lt;100000" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "Pternohyla dentata" ; Times: 1
+	Query: "Lampropeltis calligaster occipitolineata stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "bahamas butterfly" ; Times: 2
+	Query: "telmatobius jelskii" ; Times: 1
+	Query: "Conopsis biserialis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "nerodia marion indiana" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "Ficimia publia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Clemmys guttata Florida" ; Times: 1
+	Query: "Tantilla rubra stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:egregius county:&#34;levy&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "elgaria panamintina" ; Times: 3
+	Query: "specificepithet:egregius county:&#34;taylor&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plectrohyla dasypus" ; Times: 1
+	Query: "PLECTROHYLA HONDURAS" ; Times: 1
+	Query: "Rhadinaea forbesi stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Ficimia publia" ; Times: 1
+	Query: "Lampropeltis calligaster occipitolineata" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Clemmys guttata Florida Polk" ; Times: 1
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "celaque" ; Times: 1
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:acutus genus:Crocodylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Hynobius sonani" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 66 (out of 230 download events in this period)
+Total number of records downloaded: 3736
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Spain ; Times: 5
+	Country: Russia ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-02 ; Times: 3
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 9
+	Date: 2016-03-04 ; Times: 4
+	Date: 2016-03-12 ; Times: 4
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Ambystoma jeffersonianum maryland" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "Smilisca dentata" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bufo surdus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Indian Cove stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "Bolitoglossa mexicana mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "Indian Cove" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "Bolitoglossa diaphora mappable:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
